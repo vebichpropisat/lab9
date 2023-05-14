@@ -1,0 +1,7 @@
+C:\Users\ZAKHAR\GIT9\lab9\N1\obj\Debug\N1.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT9\lab9\N1\obj\Debug\N1.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT9\lab9\N1\bin\Debug\N1.exe.config
+C:\Users\ZAKHAR\GIT9\lab9\N1\bin\Debug\N1.exe
+C:\Users\ZAKHAR\GIT9\lab9\N1\bin\Debug\N1.pdb
+C:\Users\ZAKHAR\GIT9\lab9\N1\obj\Debug\N1.exe
+C:\Users\ZAKHAR\GIT9\lab9\N1\obj\Debug\N1.pdb
